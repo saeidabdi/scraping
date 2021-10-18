@@ -1,0 +1,21 @@
+{
+  "name": "bot_zelzelh",
+  "version": "1.0.0",
+  "description": "it site for zelzelh bot telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "file-system": "^2.2.2",
+    "html-differ": "^1.4.0",
+    "html-table-to-json": "^0.4.1",
+    "https": "^1.0.0",
+    "json-diff": "^0.5.4",
+    "telegram-bot-api": "^1.3.3"
+  }
+}

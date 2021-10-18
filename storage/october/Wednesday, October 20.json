@@ -1,0 +1,20 @@
+{
+    "Day": {
+        "Degree": "\n\t\t\t16&#xB0",
+        "DegreeModel": "Hi",
+        "RealFeel": "\n\t\t\t\tRealFeel&#xAE;\n\t\t\t\t14&#xB0;\n\t\t\t",
+        "MaxUvIndex": "2 Low",
+        "Wind": "SW 26 km/h",
+        "WindGusts": "32 km/h",
+        "ProbabilityOfPrecipitation": "65%"
+    },
+    "Night": {
+        "Degree": "\n\t\t\t10&#xB0",
+        "DegreeModel": "Lo",
+        "RealFeel": "\n\t\t\t\tRealFeel&#xAE;\n\t\t\t\t6&#xB0;\n\t\t\t",
+        "MaxUvIndex": "WSW 22 km/h",
+        "Wind": "28 km/h",
+        "WindGusts": "76%",
+        "ProbabilityOfPrecipitation": "15%"
+    }
+}
